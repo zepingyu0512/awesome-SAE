@@ -7,8 +7,14 @@ Conference paper recommendation: please release a issue or contact [me](https://
 
 ## Papers
 
+- [Gemma Scope: Open Sparse Autoencoders Everywhere All At Once on Gemma 2](https://arxiv.org/pdf/2408.05147)
+   - \[Deepmind\] \[2024.8\]
+ 
+- [Interpreting Attention Layer Outputs with Sparse Autoencoders](https://arxiv.org/pdf/2406.17759)
+   - \[2024.6\]
+
 - [Scaling and evaluating sparse autoencoders](https://arxiv.org/pdf/2406.04093)
-   - \[OpenAI\] \[2024.4\]
+   - \[OpenAI\] \[2024.6\]
 
 - [Identifying Functionally Important Features with End-to-End Sparse Dictionary Learning](https://arxiv.org/pdf/2405.12241)
    - \[NeurIPS 2024\] \[2024.5\]
