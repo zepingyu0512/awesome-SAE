@@ -1,2 +1,26 @@
-# awesome-SAE
-awesome SAE papers
+# Awesome Papers for Sparse Auto-Encoders
+This list focuses on sparse auto-encoders (SAE) techniques in mechanistic interpretability. Works in this list are accepted by top conferences, or written by top research institutions.
+
+Conference paper recommendation: please release a issue or contact [me](https://zepingyu0512.github.io/).
+
+[Another repo](https://github.com/zepingyu0512/awesome-llm-understanding-mechanism.git) focuses on understanding the internal mechanism of LLMs.
+
+## Papers
+
+- [Scaling and evaluating sparse autoencoders](https://arxiv.org/pdf/2406.04093)
+   - \[OpenAI\] \[2024.4\]
+
+- [Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet](https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html)
+   - \[Anthropic\] \[2024.5\]
+
+- [Towards Monosemanticity: Decomposing Language Models With Dictionary Learning](https://transformer-circuits.pub/2023/monosemantic-features/index.html)
+   - \[Anthropic\] \[2023.10\]
+ 
+- [Sparse Autoencoders Find Highly Interpretable Features in Language Models](https://arxiv.org/pdf/2309.08600)
+   - \[ICLR 2024\] \[2023.9\]
+
+- [Toy Models of Superposition](https://transformer-circuits.pub/2022/toy_model/index.html)
+   - \[Anthropic\] \[2022.9\]
+
+
+
