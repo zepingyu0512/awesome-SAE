@@ -1,5 +1,5 @@
 # Awesome Papers for Sparse Auto-Encoders
-This list focuses on sparse auto-encoders (SAE) techniques in mechanistic interpretability. Works in this list are accepted by top conferences, or written by top research institutions.
+This list focuses on sparse auto-encoders (SAE) techniques in mechanistic interpretability. 
 
 Conference paper recommendation: please release a issue or contact [me](https://zepingyu0512.github.io/).
 
@@ -7,11 +7,14 @@ Conference paper recommendation: please release a issue or contact [me](https://
 
 ## Papers
 
+- [Evaluating Open-Source Sparse Autoencoders on Disentangling Factual Knowledge in GPT-2 Small](https://arxiv.org/pdf/2409.04478)
+   - \[arxiv\] \[2024.9\]
+
 - [Gemma Scope: Open Sparse Autoencoders Everywhere All At Once on Gemma 2](https://arxiv.org/pdf/2408.05147)
    - \[Deepmind\] \[2024.8\]
  
 - [Interpreting Attention Layer Outputs with Sparse Autoencoders](https://arxiv.org/pdf/2406.17759)
-   - \[2024.6\]
+   - \[arxiv\] \[2024.6\]
 
 - [Scaling and evaluating sparse autoencoders](https://arxiv.org/pdf/2406.04093)
    - \[OpenAI\] \[2024.6\]
