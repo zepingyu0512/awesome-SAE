@@ -12,6 +12,9 @@ Conference paper recommendation: please release a issue or contact [me](https://
 - [Gemma Scope: Open Sparse Autoencoders Everywhere All At Once on Gemma 2](https://arxiv.org/pdf/2408.05147)
    - \[Deepmind\] \[2024.8\]
  
+- [Jumping Ahead: Improving Reconstruction Fidelity with JumpReLU Sparse Autoencoders](https://arxiv.org/pdf/2407.14435)
+   - \[Deepmind\] \[2024.8\]
+ 
 - [Interpreting Attention Layer Outputs with Sparse Autoencoders](https://arxiv.org/pdf/2406.17759)
    - \[arxiv\] \[2024.6\]
 
