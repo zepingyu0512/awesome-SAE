@@ -21,6 +21,9 @@ Conference paper recommendation: please release a issue or contact [me](https://
 - [Identifying Functionally Important Features with End-to-End Sparse Dictionary Learning](https://arxiv.org/pdf/2405.12241)
    - \[NeurIPS 2024\] \[2024.5\]
 
+- [Improving Dictionary Learning with Gated Sparse Autoencoders](https://arxiv.org/pdf/2404.16014)
+   - \[arxiv\] \[2024.5\]
+
 - [Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet](https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html)
    - \[Anthropic\] \[2024.5\]
 
