@@ -1,5 +1,5 @@
 # Awesome Papers for Sparse Auto-Encoder (SAE)
-This list focuses on sparse auto-encoder (SAE) techniques in mechanistic interpretability. [Another repo](https://github.com/zepingyu0512/awesome-llm-understanding-mechanism.git) focuses on understanding the internal mechanism of LLMs.
+This list focuses on sparse auto-encoder (SAE) techniques in mechanistic interpretability. [Another list](https://github.com/zepingyu0512/awesome-llm-understanding-mechanism.git) focuses on understanding the internal mechanism of LLMs.
 
 Conference paper recommendation: please release a issue or contact [me](https://zepingyu0512.github.io/).
 
