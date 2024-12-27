@@ -35,6 +35,9 @@ Paper recommendation (arxiv is also OK): please release a issue or contact [me](
 
 - [RAVEL: Evaluating Interpretability Methods on Disentangling Language Model Representations](https://arxiv.org/pdf/2402.17700)
    - \[ACL 2024\] \[2024.2\]
+ 
+- [Codebook Features: Sparse and Discrete Interpretability for Neural Networks](https://arxiv.org/pdf/2310.17230)
+   - \[arxiv\] \[2023.10\]
 
 - [Towards Monosemanticity: Decomposing Language Models With Dictionary Learning](https://transformer-circuits.pub/2023/monosemantic-features/index.html)
    - \[Anthropic\] \[2023.10\]
