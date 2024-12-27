@@ -27,6 +27,9 @@ Conference paper recommendation: please release a issue or contact [me](https://
 - [Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet](https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html)
    - \[Anthropic\] \[2024.5\]
 
+- [RAVEL: Evaluating Interpretability Methods on Disentangling Language Model Representations](https://arxiv.org/pdf/2402.17700)
+   - \[ACL 2024\] \[2024.2\]
+
 - [Towards Monosemanticity: Decomposing Language Models With Dictionary Learning](https://transformer-circuits.pub/2023/monosemantic-features/index.html)
    - \[Anthropic\] \[2023.10\]
  
