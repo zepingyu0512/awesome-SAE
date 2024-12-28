@@ -96,6 +96,9 @@ Paper/preprint/blog recommendation: please release a issue or contact [me](https
 - [Causal Scrubbing: a method for rigorously testing interpretability hypotheses](https://www.alignmentforum.org/posts/JvZhhzycHu2Yd57RN/causal-scrubbing-a-method-for-rigorously-testing)
    - \[AI alignment forum\] \[2022.12\]
 
+- [Taking features out of superposition with sparse autoencoders](https://www.alignmentforum.org/posts/z6QQJbtpkEAX3Aojj/interim-research-report-taking-features-out-of-superposition)
+   - \[AI alignment forum\] \[2022.12\]
+
 - [Engineering Monosemanticity in Toy Models](https://arxiv.org/pdf/2211.09169)
    - \[arxiv\] \[2022.11\]
 
