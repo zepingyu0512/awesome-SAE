@@ -20,6 +20,9 @@ Paper/blog recommendation (arxiv/lesswrong is OK): please release a issue or con
  
 - [Jumping Ahead: Improving Reconstruction Fidelity with JumpReLU Sparse Autoencoders](https://arxiv.org/pdf/2407.14435)
    - \[Deepmind\] \[2024.8\]
+
+- [SAEs (usually) Transfer Between Base and Chat Models](https://www.alignmentforum.org/posts/fmwk6qxrpW8d4jvbd/saes-usually-transfer-between-base-and-chat-models)
+   - \[AI alignment forum blog\] \[2024.7\]
  
 - [Interpreting Attention Layer Outputs with Sparse Autoencoders](https://arxiv.org/pdf/2406.17759)
    - \[arxiv\] \[2024.6\]
