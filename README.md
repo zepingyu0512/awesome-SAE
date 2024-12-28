@@ -72,6 +72,9 @@ Paper recommendation (arxiv is also OK): please release a issue or contact [me](
 - [Engineering Monosemanticity in Toy Models](https://arxiv.org/pdf/2211.09169)
    - \[arxiv\] \[2022.11\]
 
+- [Polysemanticity and Capacity in Neural Networks](https://arxiv.org/pdf/2210.01892)
+   - \[arxiv\] \[2022.9\]
+
 - [Toy Models of Superposition](https://transformer-circuits.pub/2022/toy_model/index.html)
    - \[Anthropic\] \[2022.9\]
 
