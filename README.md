@@ -12,6 +12,9 @@ Paper/blog recommendation (arxiv/lesswrong is OK): please release a issue or con
 - [Evaluating Sparse Autoencoders on Targeted Concept Erasure Tasks](https://arxiv.org/pdf/2411.18895)
    - \[arxiv\] \[2024.11\]
 
+- [Applying sparse autoencoders to unlearn knowledge in language models](https://arxiv.org/pdf/2410.19278)
+   - \[arxiv\] \[2024.10\]
+
 - [Evaluating Open-Source Sparse Autoencoders on Disentangling Factual Knowledge in GPT-2 Small](https://arxiv.org/pdf/2409.04478)
    - \[arxiv\] \[2024.9\]
 
