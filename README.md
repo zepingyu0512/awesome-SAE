@@ -38,6 +38,9 @@ Paper recommendation (arxiv is also OK): please release a issue or contact [me](
 
 - [Addressing Feature Suppression in SAEs](https://www.lesswrong.com/posts/3JuSjTZyMzaSeTxKk/addressing-feature-suppression-in-saes)
    - \[lesswrong blog\] \[2024.2\]
+
+- [Dictionary Learning Improves Patch-Free Circuit Discovery in Mechanistic Interpretability: A Case Study on Othello-GPT](https://arxiv.org/pdf/2402.12201)
+   - \[arxiv\] \[2024.2\]
  
 - [Codebook Features: Sparse and Discrete Interpretability for Neural Networks](https://arxiv.org/pdf/2310.17230)
    - \[arxiv\] \[2023.10\]
