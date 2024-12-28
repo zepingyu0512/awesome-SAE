@@ -35,6 +35,9 @@ Paper recommendation (arxiv is also OK): please release a issue or contact [me](
 
 - [RAVEL: Evaluating Interpretability Methods on Disentangling Language Model Representations](https://arxiv.org/pdf/2402.17700)
    - \[ACL 2024\] \[2024.2\]
+
+- [Addressing Feature Suppression in SAEs](https://www.lesswrong.com/posts/3JuSjTZyMzaSeTxKk/addressing-feature-suppression-in-saes)
+   - \[lesswrong blog\] \[2024.2\]
  
 - [Codebook Features: Sparse and Discrete Interpretability for Neural Networks](https://arxiv.org/pdf/2310.17230)
    - \[arxiv\] \[2023.10\]
