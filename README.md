@@ -51,6 +51,9 @@ Paper recommendation (arxiv is also OK): please release a issue or contact [me](
 - [Sparse Autoencoders Find Highly Interpretable Features in Language Models](https://arxiv.org/pdf/2309.08600)
    - \[ICLR 2024\] \[2023.9\]
 
+- [Inference-Time Intervention: Eliciting Truthful Answers from a Language Model](https://arxiv.org/pdf/2306.03341)
+   - \[NeurIPS 2023\] \[2023.6\]
+
 - [Distributed Representations: Composition & Superposition](https://transformer-circuits.pub/2023/superposition-composition/index.html)
    - \[Anthropic\] \[2023.5\]
 
