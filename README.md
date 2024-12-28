@@ -6,6 +6,9 @@ Paper/blog recommendation (arxiv/lesswrong is OK): please release a issue or con
 
 ## Papers
 
+- [Evaluating Sparse Autoencoders on Targeted Concept Erasure Tasks](https://arxiv.org/pdf/2411.18895)
+   - \[arxiv\] \[2024.11\]
+
 - [Evaluating Open-Source Sparse Autoencoders on Disentangling Factual Knowledge in GPT-2 Small](https://arxiv.org/pdf/2409.04478)
    - \[arxiv\] \[2024.9\]
 
@@ -32,6 +35,9 @@ Paper/blog recommendation (arxiv/lesswrong is OK): please release a issue or con
 
 - [Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet](https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html)
    - \[Anthropic\] \[2024.5\]
+
+- [How to use and interpret activation patching](https://arxiv.org/pdf/2404.15255)
+   - \[Anthropic\] \[2024.4\]
 
 - [Sparse Feature Circuits: Discovering and Editing Interpretable Causal Graphs in Language Models](https://arxiv.org/pdf/2403.19647v1)
    - \[arxiv\] \[2024.3\]
