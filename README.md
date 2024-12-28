@@ -69,8 +69,12 @@ Paper recommendation (arxiv is also OK): please release a issue or contact [me](
 - [Attribution Patching: Activation Patching At Industrial Scale](https://www.neelnanda.io/mechanistic-interpretability/attribution-patching)
    - \[Neel Nanda Blog\] \[2023.2\]
 
+- [Engineering Monosemanticity in Toy Models](https://arxiv.org/pdf/2211.09169)
+   - \[arxiv\] \[2022.11\]
+
 - [Toy Models of Superposition](https://transformer-circuits.pub/2022/toy_model/index.html)
    - \[Anthropic\] \[2022.9\]
+
 
 
 
