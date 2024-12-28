@@ -93,6 +93,9 @@ Paper/preprint/blog recommendation: please release a issue or contact [me](https
 - [Attribution Patching: Activation Patching At Industrial Scale](https://www.neelnanda.io/mechanistic-interpretability/attribution-patching)
    - \[Neel Nanda Blog\] \[2023.2\]
 
+- [Causal Scrubbing: a method for rigorously testing interpretability hypotheses](https://www.alignmentforum.org/posts/JvZhhzycHu2Yd57RN/causal-scrubbing-a-method-for-rigorously-testing)
+   - \[AI alignment forum\] \[2022.12\]
+
 - [Engineering Monosemanticity in Toy Models](https://arxiv.org/pdf/2211.09169)
    - \[arxiv\] \[2022.11\]
 
