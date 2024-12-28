@@ -33,6 +33,9 @@ Paper/blog recommendation (arxiv/lesswrong is OK): please release a issue or con
 - [Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet](https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html)
    - \[Anthropic\] \[2024.5\]
 
+- [Sparse Feature Circuits: Discovering and Editing Interpretable Causal Graphs in Language Models](https://arxiv.org/pdf/2403.19647v1)
+   - \[arxiv\] \[2024.3\]
+
 - [RAVEL: Evaluating Interpretability Methods on Disentangling Language Model Representations](https://arxiv.org/pdf/2402.17700)
    - \[ACL 2024\] \[2024.2\]
 
