@@ -6,6 +6,9 @@ Paper/blog recommendation (arxiv/lesswrong is OK): please release a issue or con
 
 ## Papers
 
+- [Improving Steering Vectors by Targeting Sparse Autoencoder Features](https://arxiv.org/pdf/2411.02193?)
+   - \[arxiv\] \[2024.11\]
+
 - [Evaluating Sparse Autoencoders on Targeted Concept Erasure Tasks](https://arxiv.org/pdf/2411.18895)
    - \[arxiv\] \[2024.11\]
 
