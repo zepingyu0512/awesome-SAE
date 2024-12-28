@@ -41,6 +41,9 @@ Paper recommendation (arxiv is also OK): please release a issue or contact [me](
 
 - [Dictionary Learning Improves Patch-Free Circuit Discovery in Mechanistic Interpretability: A Case Study on Othello-GPT](https://arxiv.org/pdf/2402.12201)
    - \[arxiv\] \[2024.2\]
+
+- [Steering Llama 2 via Contrastive Activation Addition](https://arxiv.org/pdf/2312.06681)
+   - \[ACL 2024\] \[2023.12\]
  
 - [Codebook Features: Sparse and Discrete Interpretability for Neural Networks](https://arxiv.org/pdf/2310.17230)
    - \[arxiv\] \[2023.10\]
@@ -50,6 +53,9 @@ Paper recommendation (arxiv is also OK): please release a issue or contact [me](
  
 - [Sparse Autoencoders Find Highly Interpretable Features in Language Models](https://arxiv.org/pdf/2309.08600)
    - \[ICLR 2024\] \[2023.9\]
+
+- [Steering Language Models With Activation Engineering](https://arxiv.org/pdf/2308.10248)
+   - \[arxiv\] \[2023.8\]
 
 - [Inference-Time Intervention: Eliciting Truthful Answers from a Language Model](https://arxiv.org/pdf/2306.03341)
    - \[NeurIPS 2023\] \[2023.6\]
