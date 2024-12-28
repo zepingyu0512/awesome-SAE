@@ -48,6 +48,9 @@ Paper recommendation (arxiv is also OK): please release a issue or contact [me](
 - [Privileged Bases in the Transformer Residual Stream](https://transformer-circuits.pub/2023/privileged-basis/index.html)
    - \[Anthropic\] \[2023.3\]
 
+- [Attribution Patching: Activation Patching At Industrial Scale](https://www.neelnanda.io/mechanistic-interpretability/attribution-patching)
+   - \[Neel Nanda Blog\] \[2023.2\]
+
 - [Toy Models of Superposition](https://transformer-circuits.pub/2022/toy_model/index.html)
    - \[Anthropic\] \[2022.9\]
 
