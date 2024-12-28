@@ -45,6 +45,9 @@ Paper recommendation (arxiv is also OK): please release a issue or contact [me](
 - [Sparse Autoencoders Find Highly Interpretable Features in Language Models](https://arxiv.org/pdf/2309.08600)
    - \[ICLR 2024\] \[2023.9\]
 
+- [Privileged Bases in the Transformer Residual Stream](https://transformer-circuits.pub/2023/privileged-basis/index.html)
+   - \[Anthropic\] \[2023.3\]
+
 - [Toy Models of Superposition](https://transformer-circuits.pub/2022/toy_model/index.html)
    - \[Anthropic\] \[2022.9\]
 
