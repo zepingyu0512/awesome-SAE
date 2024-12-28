@@ -21,6 +21,9 @@ Paper/blog recommendation (arxiv/lesswrong is OK): please release a issue or con
 - [Jumping Ahead: Improving Reconstruction Fidelity with JumpReLU Sparse Autoencoders](https://arxiv.org/pdf/2407.14435)
    - \[Deepmind\] \[2024.8\]
 
+- [Self-explaining SAE features](https://www.lesswrong.com/posts/8ev6coxChSWcxCDy8/self-explaining-sae-features)
+   - \[Lesswrong blog\] \[2024.8\]
+
 - [SAEs (usually) Transfer Between Base and Chat Models](https://www.alignmentforum.org/posts/fmwk6qxrpW8d4jvbd/saes-usually-transfer-between-base-and-chat-models)
    - \[AI alignment forum blog\] \[2024.7\]
  
@@ -95,7 +98,3 @@ Paper/blog recommendation (arxiv/lesswrong is OK): please release a issue or con
 
 - [Toy Models of Superposition](https://transformer-circuits.pub/2022/toy_model/index.html)
    - \[Anthropic\] \[2022.9\]
-
-
-
-
