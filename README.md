@@ -10,10 +10,10 @@ Paper/preprint/blog recommendation: please release a issue or contact [me](https
    - \[arxiv\] \[2024.11\]
 
 - [Evaluating Sparse Autoencoders on Targeted Concept Erasure Tasks](https://arxiv.org/pdf/2411.18895)
-   - \[NeurIPS 2024  Safe Generative AI Workshop\] \[2024.11\]
+   - \[arxiv\] \[2024.11\]
 
 - [Applying sparse autoencoders to unlearn knowledge in language models](https://arxiv.org/pdf/2410.19278)
-   - \[arxiv\] \[2024.10\]
+   - \[NeurIPS 2024 workshop\] \[2024.10\]
 
 - [Evaluating Open-Source Sparse Autoencoders on Disentangling Factual Knowledge in GPT-2 Small](https://arxiv.org/pdf/2409.04478)
    - \[arxiv\] \[2024.9\]
