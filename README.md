@@ -32,6 +32,9 @@ Paper/preprint/blog recommendation: please release a issue or contact [me](https
 
 - [BatchTopK: A Simple Improvement for TopK-SAEs](https://www.lesswrong.com/posts/Nkx6yWZNbAsfvic98/batchtopk-a-simple-improvement-for-topk-saes)
    - \[Lesswrong blog\] \[2024.7\]
+
+- [Measuring Progress in Dictionary Learning for Language Model Interpretability with Board Game Models](https://arxiv.org/pdf/2408.00113)
+   - \[ICML MI workshop\] \[2024.7\]
  
 - [Interpreting Attention Layer Outputs with Sparse Autoencoders](https://arxiv.org/pdf/2406.17759)
    - \[arxiv\] \[2024.6\]
