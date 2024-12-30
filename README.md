@@ -29,6 +29,9 @@ Paper/preprint/blog recommendation: please release a issue or contact [me](https
 
 - [SAEs (usually) Transfer Between Base and Chat Models](https://www.alignmentforum.org/posts/fmwk6qxrpW8d4jvbd/saes-usually-transfer-between-base-and-chat-models)
    - \[AI alignment forum blog\] \[2024.7\]
+
+- [BatchTopK: A Simple Improvement for TopK-SAEs](https://www.lesswrong.com/posts/Nkx6yWZNbAsfvic98/batchtopk-a-simple-improvement-for-topk-saes)
+   - \[Lesswrong blog\] \[2024.7\]
  
 - [Interpreting Attention Layer Outputs with Sparse Autoencoders](https://arxiv.org/pdf/2406.17759)
    - \[arxiv\] \[2024.6\]
