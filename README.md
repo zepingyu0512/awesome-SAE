@@ -15,6 +15,9 @@ Paper/preprint/blog recommendation: please release a issue or contact [me](https
 - [Applying sparse autoencoders to unlearn knowledge in language models](https://arxiv.org/pdf/2410.19278)
    - \[arxiv\] \[2024.10\]
 
+- [Evaluating feature steering: A case study in mitigating social biases](https://www.anthropic.com/research/evaluating-feature-steering)
+   - \[Anthropic\] \[2024.10\]
+
 - [Evaluating Open-Source Sparse Autoencoders on Disentangling Factual Knowledge in GPT-2 Small](https://arxiv.org/pdf/2409.04478)
    - \[arxiv\] \[2024.9\]
 
