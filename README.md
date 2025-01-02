@@ -51,6 +51,9 @@ Paper/preprint/blog recommendation: please release a issue or contact [me](https
 - [Towards Principled Evaluations of Sparse Autoencoders for Interpretability and Control](https://arxiv.org/pdf/2405.08366)
    - \[arxiv\] \[2024.5\]
 
+- [Personalized Steering of Large Language Models: Versatile Steering Vectors Through Bi-directional Preference Optimization](https://arxiv.org/pdf/2406.00045)
+   - \[arxiv\] \[2024.5\]
+
 - [Improving Dictionary Learning with Gated Sparse Autoencoders](https://arxiv.org/pdf/2404.16014)
    - \[arxiv\] \[2024.5\]
 
