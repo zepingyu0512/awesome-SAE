@@ -69,6 +69,9 @@ Paper/preprint/blog recommendation: please release a issue or contact [me](https
 - [Addressing Feature Suppression in SAEs](https://www.lesswrong.com/posts/3JuSjTZyMzaSeTxKk/addressing-feature-suppression-in-saes)
    - \[lesswrong blog\] \[2024.2\]
 
+- [Examining Language Model Performance with Reconstructed Activations using Sparse Autoencoders](https://www.lesswrong.com/posts/8QRH8wKcnKGhpAu2o/examining-language-model-performance-with-reconstructed)
+   - \[lesswrong blog\] \[2024.2\]
+
 - [Dictionary Learning Improves Patch-Free Circuit Discovery in Mechanistic Interpretability: A Case Study on Othello-GPT](https://arxiv.org/pdf/2402.12201)
    - \[arxiv\] \[2024.2\]
 
