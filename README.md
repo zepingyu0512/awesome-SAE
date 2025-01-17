@@ -61,7 +61,7 @@ Paper/preprint/blog recommendation: please release a issue or contact [me](https
    - \[Anthropic\] \[2024.5\]
 
 - [How to use and interpret activation patching](https://arxiv.org/pdf/2404.15255)
-   - \[Anthropic\] \[2024.4\]
+   - \[arxiv\] \[2024.4\]
 
 - [Improving Dictionary Learning with Gated Sparse Autoencoders](https://arxiv.org/pdf/2411.18895)
    - \[arxiv\] \[2024.4\]
