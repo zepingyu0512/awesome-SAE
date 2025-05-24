@@ -90,6 +90,9 @@ Paper/preprint/blog recommendation: please release a issue or contact [me](https
 - [Dictionary Learning Improves Patch-Free Circuit Discovery in Mechanistic Interpretability: A Case Study on Othello-GPT](https://arxiv.org/pdf/2402.12201)
    - \[arxiv\] \[2024.2\]
 
+- [Open Source Sparse Autoencoders for all Residual Stream Layers of GPT2-Small](https://www.alignmentforum.org/posts/f9EgfLSurAiqRJySD/open-source-sparse-autoencoders-for-all-residual-stream)
+   - \[alignmentforum blog\] \[2024.2\]
+
 - [Steering Llama 2 via Contrastive Activation Addition](https://arxiv.org/pdf/2312.06681)
    - \[ACL 2024\] \[2023.12\]
  
