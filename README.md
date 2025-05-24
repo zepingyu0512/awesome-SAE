@@ -60,6 +60,9 @@ Paper/preprint/blog recommendation: please release a issue or contact [me](https
 - [Efficient Training of Sparse Autoencoders for Large Language Models via Layer Groups](https://arxiv.org/pdf/2410.21508)
    - \[arxiv\] \[2024.10\]
 
+- [Sparse Autoencoders Reveal Temporal Difference Learning in Large Language Models](https://arxiv.org/pdf/2410.01280)
+   - \[ICLR 2025\] \[2024.10\]
+
 - [Evaluating Open-Source Sparse Autoencoders on Disentangling Factual Knowledge in GPT-2 Small](https://arxiv.org/pdf/2409.04478)
    - \[arxiv\] \[2024.9\]
 
