@@ -141,7 +141,7 @@ Paper/preprint/blog recommendation: please release a issue or contact [me](https
 - [Codebook Features: Sparse and Discrete Interpretability for Neural Networks](https://arxiv.org/pdf/2310.17230)
    - \[arxiv\] \[2023.10\]
 
-- [Attribution patching outperforms automated circuit discovery](https://arxiv.org/pdf/2403.19647v1)
+- [Attribution patching outperforms automated circuit discovery](https://arxiv.org/pdf/2310.10348)
    - \[BlackboxNLP 2024\] \[2023.10\]
 
 - [Towards Monosemanticity: Decomposing Language Models With Dictionary Learning](https://transformer-circuits.pub/2023/monosemantic-features/index.html)
