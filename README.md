@@ -39,6 +39,9 @@ Paper/preprint/blog recommendation: please release a issue or contact [me](https
 - [BatchTopK Sparse Autoencoders](https://arxiv.org/pdf/2412.06410)
    - \[arxiv\] \[2024.12\]
 
+- [Do I Know This Entity? Knowledge Awareness and Hallucinations in Language Models](https://arxiv.org/pdf/2411.14257)
+   - \[ICLR 2025\] \[2024.11\]
+
 - [Improving Steering Vectors by Targeting Sparse Autoencoder Features](https://arxiv.org/pdf/2411.02193?)
    - \[arxiv\] \[2024.11\]
 
