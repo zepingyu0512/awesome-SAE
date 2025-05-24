@@ -27,6 +27,9 @@ Paper/preprint/blog recommendation: please release a issue or contact [me](https
 - [Evaluating feature steering: A case study in mitigating social biases](https://www.anthropic.com/research/evaluating-feature-steering)
    - \[Anthropic\] \[2024.10\]
 
+- [Llama Scope: Extracting Millions of Features from Llama-3.1-8B with Sparse Autoencoders](https://arxiv.org/pdf/2410.20526)
+   - \[arxiv\] \[2024.10\]
+
 - [Evaluating Open-Source Sparse Autoencoders on Disentangling Factual Knowledge in GPT-2 Small](https://arxiv.org/pdf/2409.04478)
    - \[arxiv\] \[2024.9\]
 
