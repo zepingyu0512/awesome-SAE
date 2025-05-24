@@ -17,6 +17,9 @@ Paper/preprint/blog recommendation: please release a issue or contact [me](https
 - [Beyond Input Activations: Identifying Influential Latents by Gradient Sparse Autoencoders](https://arxiv.org/pdf/2505.08080)
    - \[arxiv\] \[2025.5\]
 
+- [On the Biology of a Large Language Model](https://transformer-circuits.pub/2025/attribution-graphs/biology.html)
+   - \[Anthropic\] \[2025.3\]
+
 - [A Survey on Sparse Autoencoders: Interpreting the Internal Mechanisms of Large Language Models](https://arxiv.org/pdf/2503.05613)
    - \[SAE survey\] \[2025.3\]
 
