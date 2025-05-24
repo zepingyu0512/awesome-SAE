@@ -6,6 +6,8 @@ Paper/preprint/blog recommendation: please release a issue or contact [me](https
 
 ## Papers
 
+### 2025
+
 - [Probing the Vulnerability of Large Language Models to Polysemantic Interventions](https://arxiv.org/pdf/2505.11611)
    - \[arxiv\] \[2025.5\]
 
@@ -35,6 +37,8 @@ Paper/preprint/blog recommendation: please release a issue or contact [me](https
 
 - [Enhancing Automated Interpretability with Output-Centric Feature Descriptions](https://arxiv.org/pdf/2501.08319)
    - \[arxiv\] \[2025.1\]
+
+### 2024
 
 - [BatchTopK Sparse Autoencoders](https://arxiv.org/pdf/2412.06410)
    - \[arxiv\] \[2024.12\]
@@ -128,6 +132,8 @@ Paper/preprint/blog recommendation: please release a issue or contact [me](https
 
 - [Open Source Sparse Autoencoders for all Residual Stream Layers of GPT2-Small](https://www.alignmentforum.org/posts/f9EgfLSurAiqRJySD/open-source-sparse-autoencoders-for-all-residual-stream)
    - \[alignmentforum blog\] \[2024.2\]
+ 
+### 2023
 
 - [Steering Llama 2 via Contrastive Activation Addition](https://arxiv.org/pdf/2312.06681)
    - \[ACL 2024\] \[2023.12\]
@@ -161,6 +167,8 @@ Paper/preprint/blog recommendation: please release a issue or contact [me](https
 
 - [Attribution Patching: Activation Patching At Industrial Scale](https://www.neelnanda.io/mechanistic-interpretability/attribution-patching)
    - \[Neel Nanda Blog\] \[2023.2\]
+ 
+### 2022
 
 - [Causal Scrubbing: a method for rigorously testing interpretability hypotheses](https://www.alignmentforum.org/posts/JvZhhzycHu2Yd57RN/causal-scrubbing-a-method-for-rigorously-testing)
    - \[AI alignment forum\] \[2022.12\]
