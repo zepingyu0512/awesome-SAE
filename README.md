@@ -30,6 +30,9 @@ Paper/preprint/blog recommendation: please release a issue or contact [me](https
 - [AxBench: Steering LLMs? Even Simple Baselines Outperform Sparse Autoencoders](https://arxiv.org/pdf/2501.17148)
    - \[ICML 2025\] \[2025.1\]
 
+- [Enhancing Automated Interpretability with Output-Centric Feature Descriptions](https://arxiv.org/pdf/2501.08319)
+   - \[arxiv\] \[2025.1\]
+
 - [BatchTopK Sparse Autoencoders](https://arxiv.org/pdf/2412.06410)
    - \[arxiv\] \[2024.12\]
 
