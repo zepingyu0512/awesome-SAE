@@ -100,6 +100,9 @@ Paper/preprint/blog recommendation: please release a issue or contact [me](https
 - [Interpreting Attention Layer Outputs with Sparse Autoencoders](https://arxiv.org/pdf/2406.17759)
    - \[arxiv\] \[2024.6\]
 
+- [Transcoders Find Interpretable LLM Feature Circuits](https://arxiv.org/pdf/2406.11944)
+   - \[arxiv\] \[2024.6\]
+
 - [Scaling and evaluating sparse autoencoders](https://arxiv.org/pdf/2406.04093)
    - \[OpenAI\] \[2024.6\]
 
