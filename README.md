@@ -18,6 +18,9 @@ Paper/preprint/blog recommendation: please release a issue or contact [me](https
 - [A Survey on Sparse Autoencoders: Interpreting the Internal Mechanisms of Large Language Models](https://arxiv.org/pdf/2503.05613)
    - \[SAE survey\] \[2025.3\]
 
+- [SAEBench: A Comprehensive Benchmark for Sparse Autoencoders in Language Model Interpretability](https://arxiv.org/pdf/2503.09532)
+   - \[arxiv\] \[2025.3\]
+
 - [Sparse Autoencoders Do Not Find Canonical Units of Analysis](https://www.arxiv.org/pdf/2502.04878)
    - \[ICLR 2025\] \[2025.2\]
 
