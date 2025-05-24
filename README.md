@@ -103,9 +103,6 @@ Paper/preprint/blog recommendation: please release a issue or contact [me](https
 - [Personalized Steering of Large Language Models: Versatile Steering Vectors Through Bi-directional Preference Optimization](https://arxiv.org/pdf/2406.00045)
    - \[arxiv\] \[2024.5\]
 
-- [Improving Dictionary Learning with Gated Sparse Autoencoders](https://arxiv.org/pdf/2404.16014)
-   - \[arxiv\] \[2024.5\]
-
 - [Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet](https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html)
    - \[Anthropic\] \[2024.5\]
 
