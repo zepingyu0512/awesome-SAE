@@ -6,6 +6,9 @@ Paper/preprint/blog recommendation: please release a issue or contact [me](https
 
 ## Papers
 
+- [Probing the Vulnerability of Large Language Models to Polysemantic Interventions]([https://arxiv.org/pdf/2503.05613](https://arxiv.org/pdf/2505.11611))
+   - \[arxiv\] \[2025.5\]
+
 - [A Survey on Sparse Autoencoders: Interpreting the Internal Mechanisms of Large Language Models](https://arxiv.org/pdf/2503.05613)
    - \[SAE survey\] \[2025.3\]
 
