@@ -24,6 +24,9 @@ Paper/preprint/blog recommendation: please release a issue or contact [me](https
 - [Scaling Sparse Feature Circuits For Studying In-Context Learning](https://openreview.net/pdf?id=Pa1vr1Prww)
    - \[openreview\] \[2025.1\]
 
+- [AxBench: Steering LLMs? Even Simple Baselines Outperform Sparse Autoencoders](https://arxiv.org/pdf/2501.17148)
+   - \[ICML 2025\] \[2025.1\]
+
 - [Improving Steering Vectors by Targeting Sparse Autoencoder Features](https://arxiv.org/pdf/2411.02193?)
    - \[arxiv\] \[2024.11\]
 
