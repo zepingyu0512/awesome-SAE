@@ -6,10 +6,13 @@ Paper/preprint/blog recommendation: please release a issue or contact [me](https
 
 ## Papers
 
-- [Probing the Vulnerability of Large Language Models to Polysemantic Interventions]([https://arxiv.org/pdf/2503.05613](https://arxiv.org/pdf/2505.11611))
+- [Probing the Vulnerability of Large Language Models to Polysemantic Interventions](https://arxiv.org/pdf/2505.11611)
    - \[arxiv\] \[2025.5\]
 
 - [SAE-SSV: Supervised Steering in Sparse Representation Spaces for Reliable Control of Language Models](https://arxiv.org/pdf/2505.16188)
+   - \[arxiv\] \[2025.5\]
+
+- [Beyond Input Activations: Identifying Influential Latents by Gradient Sparse Autoencoders](https://arxiv.org/pdf/2505.08080)
    - \[arxiv\] \[2025.5\]
 
 - [A Survey on Sparse Autoencoders: Interpreting the Internal Mechanisms of Large Language Models](https://arxiv.org/pdf/2503.05613)
