@@ -70,6 +70,9 @@ Paper/preprint/blog recommendation: please release a issue or contact [me](https
 - [Sparse Autoencoders Reveal Temporal Difference Learning in Large Language Models](https://arxiv.org/pdf/2410.01280)
    - \[ICLR 2025\] \[2024.10\]
 
+- [Sparse Crosscoders for Cross-Layer Features and Model Diffing](https://transformer-circuits.pub/2024/crosscoders/index.html)
+   - \[Anthropic\] \[2024.10\]
+
 - [Scaling Automatic Neuron Description](https://transluce.org/neuron-descriptions)
    - \[transluce\] \[2024.10\]
 
